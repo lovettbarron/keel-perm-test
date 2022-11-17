@@ -26,7 +26,7 @@ model Todo {
         expression: todo.owner == ctx.identity
     )
 }
-
+// buildplz
 api Web {
     @graphql
 
